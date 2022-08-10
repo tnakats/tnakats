@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Tyler 👋
 
 <!--
 **tnakats/tnakats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on a full stack web app
+- 🌱 I’m currently learning React and connecting it with backend technologies
+- 📫 How to reach me: tyler_nakata@pacificu.edu
+- ⚡ Fun fact: My hobbies include graphic design, photography, videography, music, and art
